@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Maven template
+target/
+### JetBrains template
+.idea/
+*.iws
+*.iml
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+.settings/
+.classpath
+.project
+
+logs/*

